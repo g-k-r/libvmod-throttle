@@ -1,7 +1,7 @@
 Summary: Request rate limiting VMOD for Varnish
 Name: vmod-throttle
 Version: 3.1.0
-Release: 1%{?dist}
+Release: 2%{?dist}
 License: BSD
 Group: System Environment/Daemons
 Source0: libvmod-throttle.tar.gz
